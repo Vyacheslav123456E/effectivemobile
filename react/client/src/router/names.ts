@@ -1,0 +1,5 @@
+
+
+export enum RouteNames {
+    HISTORY = '/',
+}
