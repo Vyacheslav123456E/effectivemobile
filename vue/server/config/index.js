@@ -4,6 +4,6 @@ module.exports = new Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'effective',
-    password: 'kopeika541',
+    password: '',
     port: 5432
 })
